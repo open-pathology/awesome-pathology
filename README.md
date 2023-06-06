@@ -11,7 +11,12 @@ This curated list of useful resources is supported by:
 ## Contents
 
 - [Software](#software)
+- [Software (Free)](#software-free)
 
 ## Software
 
 - [QuPath](https://qupath.github.io/) - Java application that enables researchers and pathologists to visualize, analyze and annotate WSIs.
+
+## Software (Free)
+
+- [Aperio ImageScope](https://www.leicabiosystems.com/en-ca/digital-pathology/manage/aperio-imagescope/) - Freely downloadable software for viewing WSIs. Windows only.
