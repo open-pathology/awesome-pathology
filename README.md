@@ -10,8 +10,13 @@ This curated list of useful resources is supported by:
 
 ## Contents
 
+- [IO](#io)
 - [Software](#software)
 - [Software (Free)](#software-free)
+
+## IO
+
+- [OpenSlide](https://openslide.org/) - Provides a simple C interface with Python bindings to read WSIs in multiple formats.
 
 ## Software
 
