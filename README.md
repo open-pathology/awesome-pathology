@@ -21,6 +21,7 @@ This curated list of useful resources is supported by:
 ## Software
 
 - [ASAP](https://computationalpathologygroup.github.io/ASAP/) - Desktop application for visualizing, annotating and automatically analyzing WSIs.
+- [Cytomine](https://doc.cytomine.org/) - Collaborative analysis of WSIs.
 - [QuPath](https://qupath.github.io/) - Java application that enables researchers and pathologists to visualize, analyze and annotate WSIs.
 
 ## Software (Free)
