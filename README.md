@@ -10,9 +10,15 @@ This curated list of useful resources is supported by:
 
 ## Contents
 
+- [Image Analysis](#image-analysis)
 - [IO](#io)
 - [Software](#software)
 - [Software (Free)](#software-free)
+- [Platform](#platform-free)
+
+## Image Analysis
+
+- [HistomicsTK](https://github.com/DigitalSlideArchive/HistomicsTK/) - Toolkit for the analysis of digital pathology images.
 
 ## IO
 
@@ -22,8 +28,13 @@ This curated list of useful resources is supported by:
 
 - [ASAP](https://computationalpathologygroup.github.io/ASAP/) - Desktop application for visualizing, annotating and automatically analyzing WSIs.
 - [Cytomine](https://doc.cytomine.org/) - Collaborative analysis of WSIs.
+- [HistomicsUI](https://github.com/DigitalSlideArchive/HistomicsUI/) - Web interface to visualize WSI and manage annotations.
 - [QuPath](https://qupath.github.io/) - Java application that enables researchers and pathologists to visualize, analyze and annotate WSIs.
 
 ## Software (Free)
 
 - [Aperio ImageScope](https://www.leicabiosystems.com/en-ca/digital-pathology/manage/aperio-imagescope/) - Freely downloadable software for viewing WSIs. Windows only.
+
+## Platform
+
+- [Digital Slide Archive](https://digitalslidearchive.github.io/digital_slide_archive/) - Provides the ability to store, manage, visualize and annotate large imaging datasets.
