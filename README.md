@@ -22,6 +22,7 @@ This curated list of useful resources is supported by:
 
 ## IO
 
+- [cuCIM](https://github.com/rapidsai/cucim/) - NVIDIA's accelerated computer vision and image processing software library for multidimensional images.
 - [OpenSlide](https://openslide.org/) - Provides a simple C interface with Python bindings to read WSIs in multiple formats.
 
 ## Software
