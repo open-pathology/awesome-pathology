@@ -13,6 +13,8 @@ This curated list of useful resources is supported by:
 - [Image Analysis](#image-analysis)
 - [IO](#io)
 - [Software](#software)
+- [Machine Learning](#machine-learning)
+- [Software](#software)
 - [Software (Free)](#software-free)
 - [Platform](#platform-free)
 
@@ -24,6 +26,10 @@ This curated list of useful resources is supported by:
 
 - [cuCIM](https://github.com/rapidsai/cucim/) - NVIDIA's accelerated computer vision and image processing software library for multidimensional images.
 - [OpenSlide](https://openslide.org/) - Provides a simple C interface with Python bindings to read WSIs in multiple formats.
+
+## Machine Learning
+
+- [Slideflow](https://slideflow.dev/) - Python package that provides a unified API for building and testing deep learning models for histopathology.
 
 ## Software
 
