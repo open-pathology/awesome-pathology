@@ -21,6 +21,7 @@ This curated list of useful resources is supported by:
 ## Image Analysis
 
 - [HistomicsTK](https://github.com/DigitalSlideArchive/HistomicsTK/) - Toolkit for the analysis of digital pathology images.
+- [TIA Toolbox](https://github.com/TissueImageAnalytics/tiatoolbox/) - Computational pathology toolbox that provides an end-to-end API for pathology image analysis.
 
 ## IO
 
