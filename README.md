@@ -10,40 +10,51 @@ This curated list of useful resources is supported by:
 
 ## Contents
 
-- [Image Analysis](#image-analysis)
-- [IO](#io)
 - [Software](#software)
-- [Machine Learning](#machine-learning)
-- [Software](#software)
-- [Software (Free)](#software-free)
-- [Platform](#platform-free)
+  - [Image Analysis](#image-analysis)
+  - [Image IO](#image-io)
+  - [Machine Learning](#machine-learning)
+  - [Platform](#platform)
+  - [Viewer](#viewer)
+  - [Viewer (Free)](#viewer-free)
+- [Data](#data)
+  - [Challenges](#challenges)
 
-## Image Analysis
+## Software
+
+### Image Analysis
 
 - [HistomicsTK](https://github.com/DigitalSlideArchive/HistomicsTK/) - Toolkit for the analysis of digital pathology images.
 - [TIA Toolbox](https://github.com/TissueImageAnalytics/tiatoolbox/) - Computational pathology toolbox that provides an end-to-end API for pathology image analysis.
 
-## IO
+### Image IO
 
 - [Bio-Formats](https://github.com/ome/bioformats/) - Java software tool for reading and writing microscopy image using standardized, open formats.
 - [cuCIM](https://github.com/rapidsai/cucim/) - NVIDIA's accelerated computer vision and image processing software library for multidimensional images.
 - [OpenSlide](https://openslide.org/) - Provides a simple C interface with Python bindings to read WSIs in multiple formats.
 
-## Machine Learning
+### Machine Learning
 
 - [Slideflow](https://slideflow.dev/) - Python package that provides a unified API for building and testing deep learning models for histopathology.
 
-## Software
+### Platform
+
+- [Digital Slide Archive](https://digitalslidearchive.github.io/digital_slide_archive/) - Provides the ability to store, manage, visualize and annotate large imaging datasets.
+
+### Viewer
 
 - [ASAP](https://computationalpathologygroup.github.io/ASAP/) - Desktop application for visualizing, annotating and automatically analyzing WSIs.
 - [Cytomine](https://doc.cytomine.org/) - Collaborative analysis of WSIs.
 - [HistomicsUI](https://github.com/DigitalSlideArchive/HistomicsUI/) - Web interface to visualize WSI and manage annotations.
 - [QuPath](https://qupath.github.io/) - Java application that enables researchers and pathologists to visualize, analyze and annotate WSIs.
 
-## Software (Free)
+### Viewer (Free)
 
 - [Aperio ImageScope](https://www.leicabiosystems.com/en-ca/digital-pathology/manage/aperio-imagescope/) - Freely downloadable software for viewing WSIs. Windows only.
 
-## Platform
+## Data
 
-- [Digital Slide Archive](https://digitalslidearchive.github.io/digital_slide_archive/) - Provides the ability to store, manage, visualize and annotate large imaging datasets.
+### Challenges
+
+- [CAMELYON16](https://camelyon16.grand-challenge.org/) - Cancer metastasis detection in lymph node.
+- [CAMELYON17](https://camelyon17.grand-challenge.org/) - Building on CAMELYON16 by moving from slide level analysis to patient level analysis.
