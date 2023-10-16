@@ -63,13 +63,13 @@ This curated list of useful resources is supported by:
 - [CAMELYON16](https://camelyon16.grand-challenge.org/) - Cancer metastasis detection in lymph node.
 - [CAMELYON17](https://camelyon17.grand-challenge.org/) - Building on CAMELYON16 by moving from slide level analysis to patient level analysis.
 - [DigestPath 2019](https://digestpath2019.grand-challenge.org/) - Digestive-system pathological detection and segmentation.
+- [HER2 Scoring Contest](https://warwick.ac.uk/fac/cross_fac/tia/data/her2contest/) - Automated HER2 scoring algorithms in WSI of breast cancer tissues.
 - [HEROHE](https://ecdp2020.grand-challenge.org/) - Predicting HER2 status in breast cancer from H&E.
 - [PAIP2019](https://paip2019.grand-challenge.org/) - Liver cancer segmentation.
 - [PAIP2020](https://paip2020.grand-challenge.org/) - Classification and segmentation of microsatellite instability (MSI) in colorectal cancer.
 - [PAIP2021](https://paip2021.grand-challenge.org/) - Perineural invasion in multiple organ cancer.
 - [PAIP2023](https://2023paip.grand-challenge.org/) - Tumor cellularity prediction in pancreatic cancer and colon cancer.
 - [PANDA](https://www.kaggle.com/competitions/prostate-cancer-grade-assessment/) - Prostate cANcer graDe Assessment.
-- [TIGER](https://tiger.grand-challenge.org/) - Fully automated assessment on Tumor InfiltratinG lymphocytes in breast cancER.
 
 ### Datasets
 
