@@ -20,6 +20,7 @@ This curated list of useful resources is supported by:
 - [Data](#data)
   - [Challenges](#challenges)
   - [Datasets](#datasets)
+  - [References](#references)
 
 ## Software
 
@@ -73,3 +74,7 @@ This curated list of useful resources is supported by:
 ### Datasets
 
 - [TCGA](https://www.cancer.gov/ccg/research/genome-sequencing/tcga/) - The Cancer Genome Atlas is a landmark cancer genomics program that molecularly characterized over 20,000 primary cancer and matched normal samples spanning 33 cancer types.
+
+### References
+
+- [WebPathology](https://www.webpathology.com/) - Visual survey of surgical pathology.
