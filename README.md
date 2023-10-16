@@ -67,6 +67,7 @@ This curated list of useful resources is supported by:
 - [PAIP2020](https://paip2020.grand-challenge.org/) - Classification and segmentation of microsatellite instability (MSI) in colorectal cancer.
 - [PAIP2021](https://paip2021.grand-challenge.org/) - Perineural invasion in multiple organ cancer.
 - [PAIP2023](https://2023paip.grand-challenge.org/) - Tumor cellularity prediction in pancreatic cancer and colon cancer.
+- [PANDA](https://www.kaggle.com/competitions/prostate-cancer-grade-assessment/) - Prostate cANcer graDe Assessment.
 
 ### Datasets
 
