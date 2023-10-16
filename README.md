@@ -61,6 +61,7 @@ This curated list of useful resources is supported by:
 - [BACH](https://iciar2018-challenge.grand-challenge.org/) - BreAst Cancer Histology images.
 - [CAMELYON16](https://camelyon16.grand-challenge.org/) - Cancer metastasis detection in lymph node.
 - [CAMELYON17](https://camelyon17.grand-challenge.org/) - Building on CAMELYON16 by moving from slide level analysis to patient level analysis.
+- [DigestPath 2019](https://digestpath2019.grand-challenge.org/) - Digestive-system pathological detection and segmentation.
 - [PAIP2019](https://paip2019.grand-challenge.org/) - Liver cancer segmentation.
 - [PAIP2020](https://paip2020.grand-challenge.org/) - Classification and segmentation of microsatellite instability (MSI) in colorectal cancer.
 - [PAIP2021](https://paip2021.grand-challenge.org/) - Perineural invasion in multiple organ cancer.
