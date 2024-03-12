@@ -60,6 +60,7 @@ This curated list of useful resources is supported by:
 - [HistoSegNet](https://github.com/lyndonchan/hsn_v1/) - Semantic segmentation of histological tissue type in WSIs.
 - [HoVer-Net](https://github.com/vqdang/hover_net/) - Simultaneous segmentation and classification of nuclei in multi-tissue histology images.
 - [MCAT](https://github.com/mahmoodlab/MCAT/) - Multimodal co-attention transformer for survival prediction in gigapixel WSIs.
+- [MSINet](https://github.com/rikiyay/MSINet/) - Deep learning model for the prediction of microsatellite instability in colorectal cancer.
 - [Patch-GCN](https://github.com/mahmoodlab/Patch-GCN/) - WSI are 2D point clouds: Context-aware survival prediction using patch-based graph convolutional networks.
 - [RSP](https://github.com/srinidhiPY/SSL_CR_Histo/) - Self-supervised driven consistency training for annotation efficient histopathology image analysis.
 - [SparseConvMIL](https://github.com/MarvinLer/SparseConvMIL/) - Sparse convolutional context-aware multiple instance learning for WSI classification.
