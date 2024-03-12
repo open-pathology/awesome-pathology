@@ -62,6 +62,7 @@ This curated list of useful resources is supported by:
 - [BACH](https://iciar2018-challenge.grand-challenge.org/) - BreAst Cancer Histology images.
 - [CAMELYON16](https://camelyon16.grand-challenge.org/) - Cancer metastasis detection in lymph node.
 - [CAMELYON17](https://camelyon17.grand-challenge.org/) - Building on CAMELYON16 by moving from slide level analysis to patient level analysis.
+- [CoNIC](https://conic-challenge.grand-challenge.org/) - Colon Nuclei Identification and Counting.
 - [DigestPath 2019](https://digestpath2019.grand-challenge.org/) - Digestive-system pathological detection and segmentation.
 - [HER2 Scoring Contest](https://warwick.ac.uk/fac/cross_fac/tia/data/her2contest/) - Automated HER2 scoring algorithms in WSI of breast cancer tissues.
 - [HEROHE](https://ecdp2020.grand-challenge.org/) - Predicting HER2 status in breast cancer from H&E.
