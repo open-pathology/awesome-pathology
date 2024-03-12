@@ -22,6 +22,8 @@ This curated list of useful resources is supported by:
   - [Challenges](#challenges)
   - [Datasets](#datasets)
   - [References](#references)
+- [Publications](#publications)
+  - [Papers](#papers)
 
 ## Software
 
@@ -118,3 +120,9 @@ This curated list of useful resources is supported by:
 ### References
 
 - [WebPathology](https://www.webpathology.com/) - Visual survey of surgical pathology.
+
+## Publications
+
+### Papers
+
+- [chen2022self](https://github.com/Richarizardd/Self-Supervised-ViT-Path/) - Self-Supervised Vision Transformers Learn Visual Concepts in Histopathology.
