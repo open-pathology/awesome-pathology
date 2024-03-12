@@ -72,6 +72,7 @@ This curated list of useful resources is supported by:
 - [ASAP](https://computationalpathologygroup.github.io/ASAP/) - Desktop application for visualizing, annotating and automatically analyzing WSIs.
 - [Cytomine](https://doc.cytomine.org/) - Collaborative analysis of WSIs.
 - [HistomicsUI](https://github.com/DigitalSlideArchive/HistomicsUI/) - Web interface to visualize WSI and manage annotations.
+- [QuickAnnotator](https://github.com/choosehappy/QuickAnnotator/) - Model assisted tool for rapid annotation of WSIs.
 - [QuPath](https://qupath.github.io/) - Java application that enables researchers and pathologists to visualize, analyze and annotate WSIs.
 
 ### Viewer (Free)
