@@ -69,6 +69,7 @@ This curated list of useful resources is supported by:
 - [CellSeg](https://neurips22-cellseg.grand-challenge.org/) - Cell segmentation in multi-modality high-resolution microscopy images.
 - [CoNIC](https://conic-challenge.grand-challenge.org/) - Colon Nuclei Identification and Counting.
 - [DigestPath 2019](https://digestpath2019.grand-challenge.org/) - Digestive-system pathological detection and segmentation.
+- [ENDO-AID](https://endo-aid.grand-challenge.org/) - Endometrial carcinoma detection in pipelle biopsies.
 - [HER2 Scoring Contest](https://warwick.ac.uk/fac/cross_fac/tia/data/her2contest/) - Automated HER2 scoring algorithms in WSI of breast cancer tissues.
 - [HEROHE](https://ecdp2020.grand-challenge.org/) - Predicting HER2 status in breast cancer from H&E.
 - [LYSTO](https://lysto.grand-challenge.org/) - LYmphocytes aSsessment hackathOn in immunohistochemically stained tissue sections.
