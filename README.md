@@ -39,6 +39,7 @@ This curated list of useful resources is supported by:
 
 ### Machine Learning
 
+- [PathML](https://github.com/Dana-Farber-AIOS/pathml/) - Tools for computational pathology.
 - [Slideflow](https://slideflow.dev/) - Python package that provides a unified API for building and testing deep learning models for histopathology.
 
 ### Model
