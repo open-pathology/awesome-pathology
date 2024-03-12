@@ -113,6 +113,7 @@ This curated list of useful resources is supported by:
 - [MIDOG 2022](https://imig.science/midog/) - MItosis DOmain Generalization on tissue types.
 - [MITOS-ATYPIA-14](https://mitos-atypia-14.grand-challenge.org/) - Detection of mitosis and evaluation of nuclear atypia score.
 - [MoNuSAC](https://monusac-2020.grand-challenge.org/) - Multi-Organ NUclei Segmentation And Classification.
+- [MoNuSeg](https://monuseg.grand-challenge.org/) - Multi-Organ NUclei Segmentation.
 - [PAIP2019](https://paip2019.grand-challenge.org/) - Liver cancer segmentation.
 - [PAIP2020](https://paip2020.grand-challenge.org/) - Classification and segmentation of microsatellite instability (MSI) in colorectal cancer.
 - [PAIP2021](https://paip2021.grand-challenge.org/) - Perineural invasion in multiple organ cancer.
