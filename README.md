@@ -44,6 +44,7 @@ This curated list of useful resources is supported by:
 ### Model
 
 - [CLAM](https://github.com/mahmoodlab/CLAM/) - Data-efficient and weakly supervised computational pathology on WSI.
+- [StarDist](https://github.com/stardist/stardist/) - Object detection with star-convex shapes.
 
 ### Platform
 
