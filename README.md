@@ -40,6 +40,7 @@ This curated list of useful resources is supported by:
 
 ### Machine Learning
 
+- [histocartography](https://github.com/BiomedSciAI/histocartography/) - Library designed to facilitate the development of graph-based computational pathology pipelines.
 - [PathML](https://github.com/Dana-Farber-AIOS/pathml/) - Tools for computational pathology.
 - [Slideflow](https://slideflow.dev/) - Python package that provides a unified API for building and testing deep learning models for histopathology.
 
