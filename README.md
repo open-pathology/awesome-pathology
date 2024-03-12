@@ -62,6 +62,7 @@ This curated list of useful resources is supported by:
 - [ACDC](https://acdc-lunghp.grand-challenge.org/) - Automatic Cancer Detection and Classification of lung histopathology.
 - [BACH](https://iciar2018-challenge.grand-challenge.org/) - BreAst Cancer Histology images.
 - [BCI](https://bci.grand-challenge.org/) - Breast Cancer Immunohistochemical image generation.
+- [BreastPathQ](https://breastpathq.grand-challenge.org/) - Quantitative biomarkers for the determination of cancer cellularity.
 - [CAMELYON16](https://camelyon16.grand-challenge.org/) - Cancer metastasis detection in lymph node.
 - [CAMELYON17](https://camelyon17.grand-challenge.org/) - Building on CAMELYON16 by moving from slide level analysis to patient level analysis.
 - [CoNIC](https://conic-challenge.grand-challenge.org/) - Colon Nuclei Identification and Counting.
