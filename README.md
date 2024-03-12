@@ -65,6 +65,7 @@ This curated list of useful resources is supported by:
 - [BreastPathQ](https://breastpathq.grand-challenge.org/) - Quantitative biomarkers for the determination of cancer cellularity.
 - [CAMELYON16](https://camelyon16.grand-challenge.org/) - Cancer metastasis detection in lymph node.
 - [CAMELYON17](https://camelyon17.grand-challenge.org/) - Building on CAMELYON16 by moving from slide level analysis to patient level analysis.
+- [CellSeg](https://neurips22-cellseg.grand-challenge.org/) - Cell segmentation in multi-modality high-resolution microscopy images.
 - [CoNIC](https://conic-challenge.grand-challenge.org/) - Colon Nuclei Identification and Counting.
 - [DigestPath 2019](https://digestpath2019.grand-challenge.org/) - Digestive-system pathological detection and segmentation.
 - [HER2 Scoring Contest](https://warwick.ac.uk/fac/cross_fac/tia/data/her2contest/) - Automated HER2 scoring algorithms in WSI of breast cancer tissues.
