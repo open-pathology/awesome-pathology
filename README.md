@@ -67,6 +67,8 @@ This curated list of useful resources is supported by:
 - [HER2 Scoring Contest](https://warwick.ac.uk/fac/cross_fac/tia/data/her2contest/) - Automated HER2 scoring algorithms in WSI of breast cancer tissues.
 - [HEROHE](https://ecdp2020.grand-challenge.org/) - Predicting HER2 status in breast cancer from H&E.
 - [LYON19](https://lyon19.grand-challenge.org/) - LYmphocyte detectiON in IHC stained specimens.
+- [MIDOG 2021](https://imig.science/midog2021/) - MItosis DOmain Generalization on tissue preparation and image acquisition.
+- [MIDOG 2022](https://imig.science/midog/) - MItosis DOmain Generalization on tissue types.
 - [PAIP2019](https://paip2019.grand-challenge.org/) - Liver cancer segmentation.
 - [PAIP2020](https://paip2020.grand-challenge.org/) - Classification and segmentation of microsatellite instability (MSI) in colorectal cancer.
 - [PAIP2021](https://paip2021.grand-challenge.org/) - Perineural invasion in multiple organ cancer.
