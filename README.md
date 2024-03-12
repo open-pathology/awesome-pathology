@@ -31,6 +31,7 @@ This curated list of useful resources is supported by:
 
 - [HistomicsTK](https://github.com/DigitalSlideArchive/HistomicsTK/) - Toolkit for the analysis of digital pathology images.
 - [HistoQC](https://github.com/choosehappy/HistoQC/) - Quality control tools for digital pathology.
+- [PathProfiler](https://github.com/MaryamHaghighat/PathProfiler/) - Quality assessment of histopathology WSI cohorts.
 - [TIA Toolbox](https://github.com/TissueImageAnalytics/tiatoolbox/) - Computational pathology toolbox that provides an end-to-end API for pathology image analysis.
 
 ### Image IO
