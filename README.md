@@ -52,6 +52,7 @@ This curated list of useful resources is supported by:
 - [StainTools](https://github.com/Peter554/StainTools/) - Tools for tissue image stain normalisation and augmentation.
 - [StarDist](https://github.com/stardist/stardist/) - Object detection with star-convex shapes.
 - [TransMIL](https://github.com/szc19990412/TransMIL/) - Transformer based correlated multiple instance learning for WSI classification.
+- [TransPath](https://github.com/Xiyue-Wang/TransPath/) - Transformer-based unsupervised contrastive learning for histopathological image classification.
 
 ### Platform
 
