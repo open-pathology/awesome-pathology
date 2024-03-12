@@ -60,6 +60,7 @@ This curated list of useful resources is supported by:
 ### Challenges
 
 - [ACDC](https://acdc-lunghp.grand-challenge.org/) - Automatic Cancer Detection and Classification of lung histopathology.
+- [ANHIR](https://anhir.grand-challenge.org/) - Automatic Non-rigid Histological Image Registration.
 - [BACH](https://iciar2018-challenge.grand-challenge.org/) - BreAst Cancer Histology images.
 - [BCI](https://bci.grand-challenge.org/) - Breast Cancer Immunohistochemical image generation.
 - [BreastPathQ](https://breastpathq.grand-challenge.org/) - Quantitative biomarkers for the determination of cancer cellularity.
