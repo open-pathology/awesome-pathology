@@ -129,6 +129,7 @@ This curated list of useful resources is supported by:
 - [BCSS](https://bcsegmentation.grand-challenge.org/) - Breast Cancer Semantic Segmentation.
 - [BRACS](https://www.bracs.icar.cnr.it/) - BReAst Carcinoma Subtyping.
 - [CRC](https://zenodo.org/record/1214456/) - 100,000 histological images of human colorectal cancer and healthy tissue.
+- [CryoNuSeg](https://github.com/masih4/CryoNuSeg/) - Nuclei segmentation of cryosectioned H&E-stained histological images.
 - [MHIST](https://bmirds.github.io/MHIST/) - Minimalist histopathology image analysis dataset.
 - [NuCLS](https://sites.google.com/view/nucls/home/) - A scalable crowdsourcing approach & dataset for nucleus classification, localization and segmentation in breast cancer.
 - [PCAM](https://github.com/basveeling/pcam/) - PatchCamelyon provides a new benchmark for machine learning models akin to CIFAR-10 and MNIST.
