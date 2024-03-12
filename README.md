@@ -132,6 +132,7 @@ This curated list of useful resources is supported by:
 - [BRACS](https://www.bracs.icar.cnr.it/) - BReAst Carcinoma Subtyping.
 - [CRC](https://zenodo.org/record/1214456/) - 100,000 histological images of human colorectal cancer and healthy tissue.
 - [CryoNuSeg](https://github.com/masih4/CryoNuSeg/) - Nuclei segmentation of cryosectioned H&E-stained histological images.
+- [H2T](https://github.com/vqdang/H2T/) - Handcrafted Histological Transformer for unsupervised representation of WSIs.
 - [MHIST](https://bmirds.github.io/MHIST/) - Minimalist histopathology image analysis dataset.
 - [NuCLS](https://sites.google.com/view/nucls/home/) - A scalable crowdsourcing approach & dataset for nucleus classification, localization and segmentation in breast cancer.
 - [OCELOT](https://lunit-io.github.io/research/publications/ocelot/) - Overlapped cell on tissue dataset for histopathology.
