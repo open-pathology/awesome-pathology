@@ -76,6 +76,7 @@ This curated list of useful resources is supported by:
 - [LYON19](https://lyon19.grand-challenge.org/) - LYmphocyte detectiON in IHC stained specimens.
 - [MIDOG 2021](https://imig.science/midog2021/) - MItosis DOmain Generalization on tissue preparation and image acquisition.
 - [MIDOG 2022](https://imig.science/midog/) - MItosis DOmain Generalization on tissue types.
+- [MITOS-ATYPIA-14](https://mitos-atypia-14.grand-challenge.org/) - Detection of mitosis and evaluation of nuclear atypia score.
 - [MoNuSAC](https://monusac-2020.grand-challenge.org/) - Multi-Organ NUclei Segmentation And Classification.
 - [PAIP2019](https://paip2019.grand-challenge.org/) - Liver cancer segmentation.
 - [PAIP2020](https://paip2020.grand-challenge.org/) - Classification and segmentation of microsatellite instability (MSI) in colorectal cancer.
