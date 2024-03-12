@@ -59,6 +59,7 @@ This curated list of useful resources is supported by:
 
 ### Challenges
 
+- [ACDC](https://acdc-lunghp.grand-challenge.org/) - Automatic Cancer Detection and Classification of lung histopathology.
 - [BACH](https://iciar2018-challenge.grand-challenge.org/) - BreAst Cancer Histology images.
 - [BCI](https://bci.grand-challenge.org/) - Breast Cancer Immunohistochemical image generation.
 - [CAMELYON16](https://camelyon16.grand-challenge.org/) - Cancer metastasis detection in lymph node.
