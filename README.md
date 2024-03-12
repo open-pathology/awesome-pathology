@@ -59,6 +59,7 @@ This curated list of useful resources is supported by:
 - [MCAT](https://github.com/mahmoodlab/MCAT/) - Multimodal co-attention transformer for survival prediction in gigapixel WSIs.
 - [Patch-GCN](https://github.com/mahmoodlab/Patch-GCN/) - WSI are 2D point clouds: Context-aware survival prediction using patch-based graph convolutional networks.
 - [RSP](https://github.com/srinidhiPY/SSL_CR_Histo/) - Self-supervised driven consistency training for annotation efficient histopathology image analysis.
+- [SparseConvMIL](https://github.com/MarvinLer/SparseConvMIL/) - Sparse convolutional context-aware multiple instance learning for WSI classification.
 - [StainGAN](https://github.com/xtarx/StainGAN/) - Stain style transfer for digital histological images.
 - [StainTools](https://github.com/Peter554/StainTools/) - Tools for tissue image stain normalisation and augmentation.
 - [StarDist](https://github.com/stardist/stardist/) - Object detection with star-convex shapes.
