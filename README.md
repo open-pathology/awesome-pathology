@@ -147,3 +147,4 @@ This curated list of useful resources is supported by:
 ### Papers
 
 - [chen2022self](https://github.com/Richarizardd/Self-Supervised-ViT-Path/) - Self-Supervised Vision Transformers Learn Visual Concepts in Histopathology.
+- [kang2022benchmarking](https://lunit-io.github.io/research/publications/pathology_ssl/) - Benchmarking Self-Supervised Learning on Diverse Pathology Datasets.
