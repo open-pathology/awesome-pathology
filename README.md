@@ -122,6 +122,7 @@ This curated list of useful resources is supported by:
 - [NuCLS](https://sites.google.com/view/nucls/home/) - A scalable crowdsourcing approach & dataset for nucleus classification, localization and segmentation in breast cancer.
 - [PCAM](https://github.com/basveeling/pcam/) - PatchCamelyon provides a new benchmark for machine learning models akin to CIFAR-10 and MNIST.
 - [TCGA](https://www.cancer.gov/ccg/research/genome-sequencing/tcga/) - The Cancer Genome Atlas is a landmark cancer genomics program that molecularly characterized over 20,000 primary cancer and matched normal samples spanning 33 cancer types.
+- [UNITOPATHO](https://github.com/EIDOSLAB/UNITOPATHO/) - A labeled histopathological dataset for colorectal polyps classification and adenoma dysplasia grading.
 - [UNMaSk](https://github.com/pathdata/UNMaSk/) - Unmasking the immune microecology of ductal carcinoma in situ.
 
 ### References
