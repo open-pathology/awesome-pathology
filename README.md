@@ -14,6 +14,7 @@ This curated list of useful resources is supported by:
   - [Image Analysis](#image-analysis)
   - [Image IO](#image-io)
   - [Machine Learning](#machine-learning)
+  - [Model](#model)
   - [Platform](#platform)
   - [Viewer](#viewer)
   - [Viewer (Free)](#viewer-free)
@@ -39,6 +40,10 @@ This curated list of useful resources is supported by:
 ### Machine Learning
 
 - [Slideflow](https://slideflow.dev/) - Python package that provides a unified API for building and testing deep learning models for histopathology.
+
+### Model
+
+- [CLAM](https://github.com/mahmoodlab/CLAM/) - Data-efficient and weakly supervised computational pathology on WSI.
 
 ### Platform
 
