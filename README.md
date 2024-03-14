@@ -73,6 +73,7 @@ This curated list of useful resources is supported by:
 - [RSP](https://github.com/srinidhiPY/SSL_CR_Histo/) - Self-supervised driven consistency training for annotation efficient histopathology image analysis.
 - [SparseConvMIL](https://github.com/MarvinLer/SparseConvMIL/) - Sparse convolutional context-aware multiple instance learning for WSI classification.
 - [StainGAN](https://github.com/xtarx/StainGAN/) - Stain style transfer for digital histological images.
+- [stainlib](https://github.com/sebastianffx/stainlib/) - Augmentation & normalization of H&E images.
 - [StainTools](https://github.com/Peter554/StainTools/) - Tools for tissue image stain normalisation and augmentation.
 - [StarDist](https://github.com/stardist/stardist/) - Object detection with star-convex shapes.
 - [TCGA segmentation](https://github.com/MarvinLer/tcga_segmentation/) - Weakly supervised multiple instance learning histopathological tumor segmentation.
