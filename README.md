@@ -61,6 +61,7 @@ This curated list of useful resources is supported by:
 - [HIPT](https://github.com/mahmoodlab/HIPT/) - Scaling vision transformers to gigapixel images via hierarchical self-supervised learning.
 - [HistoSegNet](https://github.com/lyndonchan/hsn_v1/) - Semantic segmentation of histological tissue type in WSIs.
 - [HoVer-Net](https://github.com/vqdang/hover_net/) - Simultaneous segmentation and classification of nuclei in multi-tissue histology images.
+- [LongViT](https://github.com/microsoft/torchscale/blob/main/examples/longvit/) - Vision Transformer that can process gigapixel images in an end-to-end manner.
 - [MCAT](https://github.com/mahmoodlab/MCAT/) - Multimodal co-attention transformer for survival prediction in gigapixel WSIs.
 - [MSINet](https://github.com/rikiyay/MSINet/) - Deep learning model for the prediction of microsatellite instability in colorectal cancer.
 - [Patch-GCN](https://github.com/mahmoodlab/Patch-GCN/) - WSI are 2D point clouds: Context-aware survival prediction using patch-based graph convolutional networks.
