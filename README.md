@@ -154,6 +154,7 @@ This curated list of useful resources is supported by:
 
 ### References
 
+- [ADP](https://github.com/mahdihosseini/ADP/) - Atlas of digital pathology for deep learning.
 - [WebPathology](https://www.webpathology.com/) - Visual survey of surgical pathology.
 
 ## Publications
