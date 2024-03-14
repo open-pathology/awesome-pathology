@@ -54,6 +54,7 @@ This curated list of useful resources is supported by:
 - [Cell-DETR](https://github.com/ChristophReich1996/Cell-DETR/) - Attention-based transformers for instance segmentation of cells in microstructures.
 - [CLAM](https://github.com/mahmoodlab/CLAM/) - Data-efficient and weakly supervised computational pathology on WSI.
 - [DeepLIIF](https://github.com/nadeemlab/DeepLIIF/) - Deep-learning inferred multiplex immunofluorescence for immunohistochemical image quantification.
+- [DiffInfinite](https://github.com/marcoaversa/diffinfinite/) - Large mask-image synthesis via parallel random patch diffusion in histopathology.
 - [DMMN](https://github.com/MSKCC-Computational-Pathology/DMMN/) - Deep Multi-Magnification Network for multi-class tissue segmentation of WSI.
 - [DT-MIL](https://github.com/yfzon/DT-MIL/) - Deformable transformer for multi-instance learning on histopathological image.
 - [FrOoDo](https://github.com/MECLabTUDA/FrOoDo/) - Framework for out of distribution detection.
