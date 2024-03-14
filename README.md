@@ -55,6 +55,7 @@ This curated list of useful resources is supported by:
 
 ### Model
 
+- [ACMIL](https://github.com/dazhangyu123/ACMIL/) - WSI classification.
 - [Cell-DETR](https://github.com/ChristophReich1996/Cell-DETR/) - Attention-based transformers for instance segmentation of cells in microstructures.
 - [Cerberus](https://github.com/TissueImageAnalytics/cerberus/) - Multi-task learning enables simultaneous histology image segmentation and classification.
 - [CLAM](https://github.com/mahmoodlab/CLAM/) - Data-efficient and weakly supervised computational pathology on WSI.
