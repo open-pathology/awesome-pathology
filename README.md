@@ -24,7 +24,6 @@ This curated list of useful resources is supported by:
   - [References](#references)
 - [Publications](#publications)
   - [Papers](#papers)
-  - [Videos](#videos)
 
 ## Software
 
@@ -155,6 +154,7 @@ This curated list of useful resources is supported by:
 ### References
 
 - [ADP](https://github.com/mahdihosseini/ADP/) - Atlas of digital pathology for deep learning.
+- [Jerad Gardner, MD](https://www.youtube.com/@JMGardnerMD/) - Popular YouTube channel for educational videos by a pathologist.
 - [WebPathology](https://www.webpathology.com/) - Visual survey of surgical pathology.
 
 ## Publications
@@ -164,7 +164,3 @@ This curated list of useful resources is supported by:
 - [chen2022self](https://github.com/Richarizardd/Self-Supervised-ViT-Path/) - Self-Supervised Vision Transformers Learn Visual Concepts in Histopathology.
 - [kang2022benchmarking](https://lunit-io.github.io/research/publications/pathology_ssl/) - Benchmarking Self-Supervised Learning on Diverse Pathology Datasets.
 - [wolflein2023good](https://github.com/georg-wolflein/good-features/) - A Good Feature Extractor Is All You Need for Weakly Supervised Pathology Slide Classification.
-
-### Videos
-
-- [Jerad Gardner, MD](https://www.youtube.com/@JMGardnerMD/) - Popular YouTube channel for educational videos by a pathologist.
