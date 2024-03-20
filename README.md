@@ -65,6 +65,7 @@ This curated list of useful resources is supported by:
 - [DT-MIL](https://github.com/yfzon/DT-MIL/) - Deformable transformer for multi-instance learning on histopathological image.
 - [FrOoDo](https://github.com/MECLabTUDA/FrOoDo/) - Framework for out of distribution detection.
 - [HIPT](https://github.com/mahmoodlab/HIPT/) - Scaling vision transformers to gigapixel images via hierarchical self-supervised learning.
+- [HistoGPT](https://github.com/marrlab/HistoGPT/) - Generating highly accurate histopathology reports from whole slide images.
 - [HistoSegNet](https://github.com/lyndonchan/hsn_v1/) - Semantic segmentation of histological tissue type in WSIs.
 - [HoVer-Net](https://github.com/vqdang/hover_net/) - Simultaneous segmentation and classification of nuclei in multi-tissue histology images.
 - [LongViT](https://github.com/microsoft/torchscale/blob/main/examples/longvit/) - Vision Transformer that can process gigapixel images in an end-to-end manner.
