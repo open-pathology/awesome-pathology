@@ -81,6 +81,7 @@ This curated list of useful resources is supported by:
 - [torchstain](https://github.com/EIDOSLAB/torchstain/) - Stain normalization transformations.
 - [TransMIL](https://github.com/szc19990412/TransMIL/) - Transformer based correlated multiple instance learning for WSI classification.
 - [TransPath](https://github.com/Xiyue-Wang/TransPath/) - Transformer-based unsupervised contrastive learning for histopathological image classification.
+- [UNI](https://github.com/mahmoodlab/UNI/) - General-purpose foundation model for computational pathology.
 
 ### Platform
 
