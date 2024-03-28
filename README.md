@@ -97,6 +97,7 @@ This curated list of useful resources is supported by:
 - [Cytomine](https://doc.cytomine.org/) - Collaborative analysis of WSIs.
 - [DigiPathAI](https://github.com/haranrk/DigiPathAI/) - Tool to visualize gigantic pathology images and use AI to segment cancer cells and present as an overlay.
 - [HistomicsUI](https://github.com/DigitalSlideArchive/HistomicsUI/) - Web interface to visualize WSI and manage annotations.
+- [slim](https://github.com/ImagingDataCommons/slim/) - Interoperable web-based slide microscopy viewer and annotation tool.
 - [QuickAnnotator](https://github.com/choosehappy/QuickAnnotator/) - Model assisted tool for rapid annotation of WSIs.
 - [QuPath](https://qupath.github.io/) - Java application that enables researchers and pathologists to visualize, analyze and annotate WSIs.
 
