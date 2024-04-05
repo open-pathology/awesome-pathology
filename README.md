@@ -43,6 +43,7 @@ This curated list of useful resources is supported by:
 - [cuCIM](https://github.com/rapidsai/cucim/) - NVIDIA's accelerated computer vision and image processing software library for multidimensional images.
 - [libvips](https://www.libvips.org/) - A fast image processing library with low memory needs.
 - [OpenSlide](https://openslide.org/) - Provides a simple C interface with Python bindings to read WSIs in multiple formats.
+- [tifffile](https://github.com/cgohlke/tifffile/) - Read and write TIFF-like files using in bioimaging.
 - [WholeSlideData](https://github.com/DIAGNijmegen/pathology-whole-slide-data/) - Batch iterator that enables fast, efficient and easy patch sampling.
 
 ### Machine Learning
