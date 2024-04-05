@@ -161,6 +161,7 @@ This curated list of useful resources is supported by:
 ### References
 
 - [ADP](https://github.com/mahdihosseini/ADP/) - Atlas of digital pathology for deep learning.
+- [Cytomine Collection](https://cytomine.com/collection/) - Open access to high quality WSI in several formats.
 - [DICOM WSI Standard](https://dicom.nema.org/dicom/dicomwsi/) - DICOM WSI document.
 - [Jerad Gardner, MD](https://www.youtube.com/@JMGardnerMD/) - Popular YouTube channel for educational videos by a pathologist.
 - [WebPathology](https://www.webpathology.com/) - Visual survey of surgical pathology.
