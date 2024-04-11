@@ -139,6 +139,7 @@ This curated list of useful resources is supported by:
 - [PAIP2023](https://2023paip.grand-challenge.org/) - Tumor cellularity prediction in pancreatic cancer and colon cancer.
 - [PANDA](https://www.kaggle.com/competitions/prostate-cancer-grade-assessment/) - Prostate cANcer graDe Assessment.
 - [SegPC](https://segpc-2021.grand-challenge.org/) - Segmentation of multiple myeloma in Plasma Cells.
+- [TIGER](https://tiger.grand-challenge.org/) - Fully automated assessment of tumor-infiltrating lymphocytes (TILs) in H&E breast cancer slides.
 - [TUPAC16](https://tupac.grand-challenge.org/) - TUmor Proliferation Assessment.
 - [WSSS4LUAD](https://wsss4luad.grand-challenge.org/) - Weakly-supervised tissue semantic segmentation for lung adenocarcinoma.
 
