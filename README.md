@@ -88,6 +88,7 @@ This curated list of useful resources is supported by:
 - [TransMIL](https://github.com/szc19990412/TransMIL/) - Transformer based correlated multiple instance learning for WSI classification.
 - [TransPath](https://github.com/Xiyue-Wang/TransPath/) - Transformer-based unsupervised contrastive learning for histopathological image classification.
 - [UNI](https://github.com/mahmoodlab/UNI/) - General-purpose foundation model for computational pathology.
+- [VIM4Path](https://github.com/AtlasAnalyticsLab/Vim4Path/) - Self-supervised vision mamba for WSIs.
 
 ### Platform
 
