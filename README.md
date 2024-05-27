@@ -76,6 +76,7 @@ This curated list of useful resources is supported by:
 - [LongViT](https://github.com/microsoft/torchscale/blob/main/examples/longvit/) - Vision Transformer that can process gigapixel images in an end-to-end manner.
 - [MCAT](https://github.com/mahmoodlab/MCAT/) - Multimodal co-attention transformer for survival prediction in gigapixel WSIs.
 - [MSINet](https://github.com/rikiyay/MSINet/) - Deep learning model for the prediction of microsatellite instability in colorectal cancer.
+- [PANTHER](https://github.com/mahmoodlab/Panther/) - Morphological prototyping for unsupervised slide representation learning in computational pathology.
 - [Patch-GCN](https://github.com/mahmoodlab/Patch-GCN/) - WSI are 2D point clouds: Context-aware survival prediction using patch-based graph convolutional networks.
 - [Phikon](https://github.com/owkin/HistoSSLscaling/) - Scaling self-supervised learning for histopathology with masked image modeling.
 - [Prov-GigaPath](https://github.com/prov-gigapath/prov-gigapath/) - A whole-slide foundation model for digital pathology from real-world data.
