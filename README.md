@@ -158,6 +158,7 @@ This curated list of useful resources is supported by:
 - [CRC](https://zenodo.org/record/1214456/) - 100,000 histological images of human colorectal cancer and healthy tissue.
 - [CryoNuSeg](https://github.com/masih4/CryoNuSeg/) - Nuclei segmentation of cryosectioned H&E-stained histological images.
 - [H2T](https://github.com/vqdang/H2T/) - Handcrafted Histological Transformer for unsupervised representation of WSIs.
+- [LC25000](https://github.com/tampapath/lung_colon_image_set/) - Lung and colon cancer histopathological image dataset.
 - [MHIST](https://bmirds.github.io/MHIST/) - Minimalist histopathology image analysis dataset.
 - [NuInsSeg](https://www.kaggle.com/datasets/ipateam/nuinsseg/) - A fully annotated dataset for nuclei instance segmentation in H&E-stained histological images.
 - [NuCLS](https://sites.google.com/view/nucls/home/) - A scalable crowdsourcing approach & dataset for nucleus classification, localization and segmentation in breast cancer.
