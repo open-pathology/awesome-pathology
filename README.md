@@ -128,6 +128,7 @@ This curated list of useful resources is supported by:
 - [CoNIC](https://conic-challenge.grand-challenge.org/) - Colon Nuclei Identification and Counting.
 - [DigestPath 2019](https://digestpath2019.grand-challenge.org/) - Digestive-system pathological detection and segmentation.
 - [ENDO-AID](https://endo-aid.grand-challenge.org/) - Endometrial carcinoma detection in pipelle biopsies.
+- [Gleason 2019](https://gleason2019.grand-challenge.org/) - Automatic Gleason grading of prostate cancer in digital histopathology.
 - [HER2 Scoring Contest](https://warwick.ac.uk/fac/cross_fac/tia/data/her2contest/) - Automated HER2 scoring algorithms in WSI of breast cancer tissues.
 - [HEROHE](https://ecdp2020.grand-challenge.org/) - Predicting HER2 status in breast cancer from H&E.
 - [KPIs](https://sites.google.com/view/kpis2024/) - Kidney Pathology Image segmentation.
