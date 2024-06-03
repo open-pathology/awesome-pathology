@@ -132,6 +132,7 @@ This curated list of useful resources is supported by:
 - [HER2 Scoring Contest](https://warwick.ac.uk/fac/cross_fac/tia/data/her2contest/) - Automated HER2 scoring algorithms in WSI of breast cancer tissues.
 - [HEROHE](https://ecdp2020.grand-challenge.org/) - Predicting HER2 status in breast cancer from H&E.
 - [KPIs](https://sites.google.com/view/kpis2024/) - Kidney Pathology Image segmentation.
+- [LEOPARD](https://leopard.grand-challenge.org/leopard/) - LEarning biOchemical Prostate cAncer Recurrence from histopathology sliDes.
 - [LYSTO](https://lysto.grand-challenge.org/) - LYmphocytes aSsessment hackathOn in immunohistochemically stained tissue sections.
 - [LYON19](https://lyon19.grand-challenge.org/) - LYmphocyte detectiON in IHC stained specimens.
 - [MIDOG 2021](https://imig.science/midog2021/) - MItosis DOmain Generalization on tissue preparation and image acquisition.
