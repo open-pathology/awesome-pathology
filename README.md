@@ -15,6 +15,7 @@ This curated list of useful resources is supported by:
   - [Image IO](#image-io)
   - [Machine Learning](#machine-learning)
   - [Model](#model)
+  - [Foundation Model](#foundation-model)
   - [Platform](#platform)
   - [Viewer](#viewer)
   - [Viewer (Free)](#viewer-free)
@@ -63,13 +64,11 @@ This curated list of useful resources is supported by:
 - [CellViT](https://github.com/TIO-IKIM/CellViT/) - Vision transformers for precise cell segmentation and classification.
 - [Cerberus](https://github.com/TissueImageAnalytics/cerberus/) - Multi-task learning enables simultaneous histology image segmentation and classification.
 - [CLAM](https://github.com/mahmoodlab/CLAM/) - Data-efficient and weakly supervised computational pathology on WSI.
-- [CONCH](https://github.com/mahmoodlab/CONCH/) - Vision-language foundation model for computational pathology.
 - [DeepLIIF](https://github.com/nadeemlab/DeepLIIF/) - Deep-learning inferred multiplex immunofluorescence for immunohistochemical image quantification.
 - [DiffInfinite](https://github.com/marcoaversa/diffinfinite/) - Large mask-image synthesis via parallel random patch diffusion in histopathology.
 - [DMMN](https://github.com/MSKCC-Computational-Pathology/DMMN/) - Deep Multi-Magnification Network for multi-class tissue segmentation of WSI.
 - [DT-MIL](https://github.com/yfzon/DT-MIL/) - Deformable transformer for multi-instance learning on histopathological image.
 - [FrOoDo](https://github.com/MECLabTUDA/FrOoDo/) - Framework for out of distribution detection.
-- [HIPT](https://github.com/mahmoodlab/HIPT/) - Scaling vision transformers to gigapixel images via hierarchical self-supervised learning.
 - [HistoGPT](https://github.com/marrlab/HistoGPT/) - Generating highly accurate histopathology reports from whole slide images.
 - [HistoSegNet](https://github.com/lyndonchan/hsn_v1/) - Semantic segmentation of histological tissue type in WSIs.
 - [HoVer-Net](https://github.com/vqdang/hover_net/) - Simultaneous segmentation and classification of nuclei in multi-tissue histology images.
@@ -78,8 +77,6 @@ This curated list of useful resources is supported by:
 - [MSINet](https://github.com/rikiyay/MSINet/) - Deep learning model for the prediction of microsatellite instability in colorectal cancer.
 - [PANTHER](https://github.com/mahmoodlab/Panther/) - Morphological prototyping for unsupervised slide representation learning in computational pathology.
 - [Patch-GCN](https://github.com/mahmoodlab/Patch-GCN/) - WSI are 2D point clouds: Context-aware survival prediction using patch-based graph convolutional networks.
-- [Phikon](https://github.com/owkin/HistoSSLscaling/) - Scaling self-supervised learning for histopathology with masked image modeling.
-- [Prov-GigaPath](https://github.com/prov-gigapath/prov-gigapath/) - A whole-slide foundation model for digital pathology from real-world data.
 - [RSP](https://github.com/srinidhiPY/SSL_CR_Histo/) - Self-supervised driven consistency training for annotation efficient histopathology image analysis.
 - [SparseConvMIL](https://github.com/MarvinLer/SparseConvMIL/) - Sparse convolutional context-aware multiple instance learning for WSI classification.
 - [StainGAN](https://github.com/xtarx/StainGAN/) - Stain style transfer for digital histological images.
@@ -90,6 +87,14 @@ This curated list of useful resources is supported by:
 - [TCGA segmentation](https://github.com/MarvinLer/tcga_segmentation/) - Weakly supervised multiple instance learning histopathological tumor segmentation.
 - [torchstain](https://github.com/EIDOSLAB/torchstain/) - Stain normalization transformations.
 - [TransMIL](https://github.com/szc19990412/TransMIL/) - Transformer based correlated multiple instance learning for WSI classification.
+
+### Foundation Model
+
+- [CONCH](https://github.com/mahmoodlab/CONCH/) - Vision-language foundation model for computational pathology.
+- [Hibou](https://github.com/HistAI/hibou/) - A family of foundational vision transformers for pathology.
+- [HIPT](https://github.com/mahmoodlab/HIPT/) - Scaling vision transformers to gigapixel images via hierarchical self-supervised learning.
+- [Phikon](https://github.com/owkin/HistoSSLscaling/) - Scaling self-supervised learning for histopathology with masked image modeling.
+- [Prov-GigaPath](https://github.com/prov-gigapath/prov-gigapath/) - A whole-slide foundation model for digital pathology from real-world data.
 - [TransPath](https://github.com/Xiyue-Wang/TransPath/) - Transformer-based unsupervised contrastive learning for histopathological image classification.
 - [UNI](https://github.com/mahmoodlab/UNI/) - General-purpose foundation model for computational pathology.
 - [VIM4Path](https://github.com/AtlasAnalyticsLab/Vim4Path/) - Self-supervised vision mamba for WSIs.
