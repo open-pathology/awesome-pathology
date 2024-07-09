@@ -75,6 +75,7 @@ This curated list of useful resources is supported by:
 - [HoVer-Net](https://github.com/vqdang/hover_net/) - Simultaneous segmentation and classification of nuclei in multi-tissue histology images.
 - [LongViT](https://github.com/microsoft/torchscale/blob/main/examples/longvit/) - Vision Transformer that can process gigapixel images in an end-to-end manner.
 - [MCAT](https://github.com/mahmoodlab/MCAT/) - Multimodal co-attention transformer for survival prediction in gigapixel WSIs.
+- [MMP](https://github.com/mahmoodlab/MMP/) - Multimodal prototyping for cancer survival prediction.
 - [MSINet](https://github.com/rikiyay/MSINet/) - Deep learning model for the prediction of microsatellite instability in colorectal cancer.
 - [PANTHER](https://github.com/mahmoodlab/Panther/) - Morphological prototyping for unsupervised slide representation learning in computational pathology.
 - [Patch-GCN](https://github.com/mahmoodlab/Patch-GCN/) - WSI are 2D point clouds: Context-aware survival prediction using patch-based graph convolutional networks.
