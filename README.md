@@ -11,6 +11,7 @@ This curated list of useful resources is supported by:
 ## Contents
 
 - [Software](#software)
+  - [Assistant](#assistant) 
   - [Image Analysis](#image-analysis)
   - [Image IO](#image-io)
   - [Machine Learning](#machine-learning)
@@ -27,6 +28,10 @@ This curated list of useful resources is supported by:
   - [Papers](#papers)
 
 ## Software
+
+### Assistant
+
+- [Digital Pathology Assistant](https://chatgpt.com/g/g-L1IbnIIVt-digital-pathology-assistant-v3-0) - Specify your requirements in plain english and I'll provide PathML and Python code for your use-case.
 
 ### Image Analysis
 
