@@ -95,6 +95,7 @@ This curated list of useful resources is supported by:
 - [CONCH](https://github.com/mahmoodlab/CONCH/) - Vision-language foundation model for computational pathology.
 - [Hibou](https://github.com/HistAI/hibou/) - A family of foundational vision transformers for pathology.
 - [HIPT](https://github.com/mahmoodlab/HIPT/) - Scaling vision transformers to gigapixel images via hierarchical self-supervised learning.
+- [H-optimus](https://github.com/bioptimus/releases/tree/main/models/h-optimus/v0/) - Foundation model for histology.
 - [PathDino](https://kimialabmayo.github.io/PathDino-Page/) - Rotation-agnostic image representation learning for digital pathology.
 - [Phikon](https://github.com/owkin/HistoSSLscaling/) - Scaling self-supervised learning for histopathology with masked image modeling.
 - [Prov-GigaPath](https://github.com/prov-gigapath/prov-gigapath/) - A whole-slide foundation model for digital pathology from real-world data.
