@@ -104,6 +104,7 @@ This curated list of useful resources is supported by:
 - [HIPT](https://github.com/mahmoodlab/HIPT/) - Scaling vision transformers to gigapixel images via hierarchical self-supervised learning.
 - [H-optimus](https://github.com/bioptimus/releases/tree/main/models/h-optimus/v0/) - Foundation model for histology.
 - [PathDino](https://kimialabmayo.github.io/PathDino-Page/) - Rotation-agnostic image representation learning for digital pathology.
+- [PathoDuet](https://github.com/openmedlab/PathoDuet/) - Foundation models for pathological slide analysis of H&E and IHC stains.
 - [Phikon](https://github.com/owkin/HistoSSLscaling/) - Scaling self-supervised learning for histopathology with masked image modeling.
 - [Prov-GigaPath](https://github.com/prov-gigapath/prov-gigapath/) - A whole-slide foundation model for digital pathology from real-world data.
 - [ROAM](https://github.com/whiteyunjie/ROAM/) - A transformer-based weakly supervised computational pathology method for clinical-grade diagnosis and molecular state revelation of gliomas.
