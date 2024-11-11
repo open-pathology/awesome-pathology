@@ -155,6 +155,7 @@ This curated list of useful resources is supported by:
 - [MIDOG 2021](https://imig.science/midog2021/) - MItosis DOmain Generalization on tissue preparation and image acquisition.
 - [MIDOG 2022](https://imig.science/midog/) - MItosis DOmain Generalization on tissue types.
 - [MITOS-ATYPIA-14](https://mitos-atypia-14.grand-challenge.org/) - Detection of mitosis and evaluation of nuclear atypia score.
+- [MONKEY](https://monkey.grand-challenge.org/) - Machine-learning for Optimal detection of iNflammatory cells in the KidnEY.
 - [MoNuSAC](https://monusac-2020.grand-challenge.org/) - Multi-Organ NUclei Segmentation And Classification.
 - [MoNuSeg](https://monuseg.grand-challenge.org/) - Multi-Organ NUclei Segmentation.
 - [PAIP2019](https://paip2019.grand-challenge.org/) - Liver cancer segmentation.
