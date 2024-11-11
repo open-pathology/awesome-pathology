@@ -75,6 +75,7 @@ This curated list of useful resources is supported by:
 - [DMMN](https://github.com/MSKCC-Computational-Pathology/DMMN/) - Deep Multi-Magnification Network for multi-class tissue segmentation of WSI.
 - [DT-MIL](https://github.com/yfzon/DT-MIL/) - Deformable transformer for multi-instance learning on histopathological image.
 - [FrOoDo](https://github.com/MECLabTUDA/FrOoDo/) - Framework for out of distribution detection.
+- [fseg](https://github.com/deepathology/fseg/) - Unsupervised semantic segmentation for pathology by factorizing foundation model features.
 - [HistoGPT](https://github.com/marrlab/HistoGPT/) - Generating highly accurate histopathology reports from whole slide images.
 - [HistoSegNet](https://github.com/lyndonchan/hsn_v1/) - Semantic segmentation of histological tissue type in WSIs.
 - [HoVer-Net](https://github.com/vqdang/hover_net/) - Simultaneous segmentation and classification of nuclei in multi-tissue histology images.
