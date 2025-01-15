@@ -186,6 +186,7 @@ This curated list of useful resources is supported by:
 - [BCNB](https://bcnb.grand-challenge.org/) - Early Breast Cancer Core-Needle Biopsy WSI dataset.
 - [BCSS](https://bcsegmentation.grand-challenge.org/) - Breast Cancer Semantic Segmentation.
 - [BRACS](https://www.bracs.icar.cnr.it/) - BReAst Carcinoma Subtyping.
+- [CATCH](https://www.cancerimagingarchive.net/collection/catch/) - CAnine cuTaneous Cancer Histology dataset.
 - [CRC](https://zenodo.org/record/1214456/) - 100,000 histological images of human colorectal cancer and healthy tissue.
 - [CryoNuSeg](https://github.com/masih4/CryoNuSeg/) - Nuclei segmentation of cryosectioned H&E-stained histological images.
 - [H2T](https://github.com/vqdang/H2T/) - Handcrafted Histological Transformer for unsupervised representation of WSIs.
