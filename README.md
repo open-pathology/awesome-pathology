@@ -35,6 +35,7 @@ This curated list of useful resources is supported by:
 
 ### Image Analysis
 
+- [CellPilot](https://github.com/philippendres/CellPilot/) - A unified approach to automatic and interactive segmentation in histopathology.
 - [GrandQC](https://github.com/cpath-ukk/grandqc/) - A comprehensive solution to quality control problem in digital pathology.
 - [HistomicsTK](https://github.com/DigitalSlideArchive/HistomicsTK/) - Toolkit for the analysis of digital pathology images.
 - [HistoQC](https://github.com/choosehappy/HistoQC/) - Quality control tools for digital pathology.
