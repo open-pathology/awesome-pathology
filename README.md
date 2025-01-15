@@ -105,6 +105,7 @@ This curated list of useful resources is supported by:
 - [Hibou](https://github.com/HistAI/hibou/) - A family of foundational vision transformers for pathology.
 - [HIPT](https://github.com/mahmoodlab/HIPT/) - Scaling vision transformers to gigapixel images via hierarchical self-supervised learning.
 - [H-optimus](https://github.com/bioptimus/releases/tree/main/models/h-optimus/v0/) - Foundation model for histology.
+- [KEEP](https://github.com/MAGIC-AI4Med/KEEP/) - A Knowledge-enhanced pathology vision-language foundation model for cancer diagnosis.
 - [MUSK](https://github.com/lilab-stanford/MUSK/) - A vision-language foundation model for precision oncology.
 - [PathDino](https://kimialabmayo.github.io/PathDino-Page/) - Rotation-agnostic image representation learning for digital pathology.
 - [Path Foundation](https://huggingface.co/google/path-foundation/) - Embedding model for efficiently building AI for histopathology applications.
