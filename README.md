@@ -222,4 +222,5 @@ This curated list of useful resources is supported by:
 - [kang2022benchmarking](https://lunit-io.github.io/research/publications/pathology_ssl/) - Benchmarking Self-Supervised Learning on Diverse Pathology Datasets.
 - [wolflein2023good](https://github.com/georg-wolflein/good-features/) - A Good Feature Extractor Is All You Need for Weakly Supervised Pathology Slide Classification.
 - [vaidya2024demographic](https://github.com/mahmoodlab/CPATH_demographics/) - Demographic bias in misdiagnosis by computational pathology models.
+- [breen2024ovarian](https://github.com/scjjb/Ovarian_Features/) - Histopathology foundation models enable accurate ovarian cancer subtype classification.
 - [matous2024latent](https://github.com/MatousE/rot-invariance-analysis/) - Are the latent representations of foundation models for pathology invarient to rotation?
