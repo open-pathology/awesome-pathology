@@ -100,6 +100,7 @@ This curated list of useful resources is supported by:
 
 ### Foundation Model
 
+- [BiomedCLIP](https://huggingface.co/microsoft/BiomedCLIP-PubMedBERT_256-vit_base_patch16_224/) - Multimodal biomedical foundation model pretrained from fifteen million scientific image-text pairs.
 - [CONCH](https://github.com/mahmoodlab/CONCH/) - Vision-language foundation model for computational pathology.
 - [Hibou](https://github.com/HistAI/hibou/) - A family of foundational vision transformers for pathology.
 - [HIPT](https://github.com/mahmoodlab/HIPT/) - Scaling vision transformers to gigapixel images via hierarchical self-supervised learning.
