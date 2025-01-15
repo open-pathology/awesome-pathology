@@ -232,5 +232,5 @@ This curated list of useful resources is supported by:
 
 ### Repositories
 
+- [stettler2022datasets](https://github.com/maduc7/Histopathology-Datasets/) - Resources of histopathology datasets.
 - [jahanifar2023domain](https://github.com/mostafajahanifar/awesome-dg-cpath/) - Awesome domain generalization for computational pathology.
-  
