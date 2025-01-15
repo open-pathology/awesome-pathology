@@ -50,6 +50,7 @@ This curated list of useful resources is supported by:
 - [compay-syntax](https://github.com/jgamper/compay-syntax/) - Tissue mask and tiling pipeline.
 - [cuCIM](https://github.com/rapidsai/cucim/) - NVIDIA's accelerated computer vision and image processing software library for multidimensional images.
 - [libvips](https://www.libvips.org/) - A fast image processing library with low memory needs.
+- [NGFF-Converter](https://github.com/glencoesoftware/NGFF-Converter/) - GUI application for conversion of bioimage formats into OME-NGFF or OME-TIFF.
 - [OpenSlide](https://openslide.org/) - Provides a simple C interface with Python bindings to read WSIs in multiple formats.
 - [svg2svs](https://github.com/Ellogon/svg2svs/) - Generate checkerboard and build multi-layer pyramidal SVS files from SVG images.
 - [tifffile](https://github.com/cgohlke/tifffile/) - Read and write TIFF-like files using in bioimaging.
