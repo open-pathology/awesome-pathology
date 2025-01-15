@@ -26,6 +26,7 @@ This curated list of useful resources is supported by:
   - [References](#references)
 - [Publications](#publications)
   - [Papers](#papers)
+  - [Repositories](#repositories)
 
 ## Software
 
@@ -228,3 +229,8 @@ This curated list of useful resources is supported by:
 - [vaidya2024demographic](https://github.com/mahmoodlab/CPATH_demographics/) - Demographic bias in misdiagnosis by computational pathology models.
 - [breen2024ovarian](https://github.com/scjjb/Ovarian_Features/) - Histopathology foundation models enable accurate ovarian cancer subtype classification.
 - [matous2024latent](https://github.com/MatousE/rot-invariance-analysis/) - Are the latent representations of foundation models for pathology invarient to rotation?
+
+### Repositories
+
+- [jahanifar2023domain](https://github.com/mostafajahanifar/awesome-dg-cpath/) - Awesome domain generalization for computational pathology.
+  
