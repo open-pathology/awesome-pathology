@@ -201,6 +201,7 @@ This curated list of useful resources is supported by:
 - [NuInsSeg](https://www.kaggle.com/datasets/ipateam/nuinsseg/) - A fully annotated dataset for nuclei instance segmentation in H&E-stained histological images.
 - [NuCLS](https://sites.google.com/view/nucls/home/) - A scalable crowdsourcing approach & dataset for nucleus classification, localization and segmentation in breast cancer.
 - [OCELOT](https://lunit-io.github.io/research/publications/ocelot/) - Overlapped cell on tissue dataset for histopathology.
+- [OBR](https://www.cancerimagingarchive.net/collection/ovarian-bevacizumab-response/) - Ovarian Bevacizumab Response: a dataset of histopathological WSIs for classification of treatment effectiveness to ovarian cancer.
 - [PanNuke](https://warwick.ac.uk/fac/cross_fac/tia/data/pannuke/) - Dataset for nuclei instance segmentation and classification.
 - [PCAM](https://github.com/basveeling/pcam/) - PatchCamelyon provides a new benchmark for machine learning models akin to CIFAR-10 and MNIST.
 - [TCGA](https://www.cancer.gov/ccg/research/genome-sequencing/tcga/) - The Cancer Genome Atlas is a landmark cancer genomics program that molecularly characterized over 20,000 primary cancer and matched normal samples spanning 33 cancer types.
