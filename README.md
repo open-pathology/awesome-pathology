@@ -194,6 +194,7 @@ This curated list of useful resources is supported by:
 - [LC25000](https://github.com/tampapath/lung_colon_image_set/) - Lung and colon cancer histopathological image dataset.
 - [LyNSeC](https://zenodo.org/records/8065174/) - Lymphoma nuclear segmentation and classification dataset.
 - [MHIST](https://bmirds.github.io/MHIST/) - Minimalist histopathology image analysis dataset.
+- [MS-SCC](https://github.com/DeepMicroscopy/MultiScanner_SCC/) - Multi-scanner squamous cell carcinoma dataset.
 - [NuInsSeg](https://www.kaggle.com/datasets/ipateam/nuinsseg/) - A fully annotated dataset for nuclei instance segmentation in H&E-stained histological images.
 - [NuCLS](https://sites.google.com/view/nucls/home/) - A scalable crowdsourcing approach & dataset for nucleus classification, localization and segmentation in breast cancer.
 - [OCELOT](https://lunit-io.github.io/research/publications/ocelot/) - Overlapped cell on tissue dataset for histopathology.
