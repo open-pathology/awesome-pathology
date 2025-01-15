@@ -78,6 +78,7 @@ This curated list of useful resources is supported by:
 - [fseg](https://github.com/deepathology/fseg/) - Unsupervised semantic segmentation for pathology by factorizing foundation model features.
 - [HistoGPT](https://github.com/marrlab/HistoGPT/) - Generating highly accurate histopathology reports from whole slide images.
 - [HistoSegNet](https://github.com/lyndonchan/hsn_v1/) - Semantic segmentation of histological tissue type in WSIs.
+- [HMIL](https://github.com/ChengJin-git/HMIL/) - Hierarchical multi-instance learning for fine-grained WSI classification.
 - [HoVer-Net](https://github.com/vqdang/hover_net/) - Simultaneous segmentation and classification of nuclei in multi-tissue histology images.
 - [LongViT](https://github.com/microsoft/torchscale/blob/main/examples/longvit/) - Vision Transformer that can process gigapixel images in an end-to-end manner.
 - [MCAT](https://github.com/mahmoodlab/MCAT/) - Multimodal co-attention transformer for survival prediction in gigapixel WSIs.
