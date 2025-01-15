@@ -39,6 +39,7 @@ This curated list of useful resources is supported by:
 - [GrandQC](https://github.com/cpath-ukk/grandqc/) - A comprehensive solution to quality control problem in digital pathology.
 - [HistomicsTK](https://github.com/DigitalSlideArchive/HistomicsTK/) - Toolkit for the analysis of digital pathology images.
 - [HistoQC](https://github.com/choosehappy/HistoQC/) - Quality control tools for digital pathology.
+- [InstanSeg](https://github.com/instanseg/instanseg/) - Cell and nucleus segmentation pipeline for fluorescence and brightfield microscopy images.
 - [PathProfiler](https://github.com/MaryamHaghighat/PathProfiler/) - Quality assessment of histopathology WSI cohorts.
 - [PyHIST](https://github.com/manuel-munoz-aguirre/PyHIST/) - Histological image segmentation tool.
 - [pyslide](https://github.com/PingjunChen/pyslide/) - Digital pathology WSI analysis toolbox.
