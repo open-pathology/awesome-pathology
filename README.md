@@ -112,6 +112,7 @@ This curated list of useful resources is supported by:
 - [TITAN](https://github.com/mahmoodlab/TITAN/) - Multimodal whole slide foundation model for pathology.
 - [TransPath](https://github.com/Xiyue-Wang/TransPath/) - Transformer-based unsupervised contrastive learning for histopathological image classification.
 - [UNI](https://github.com/mahmoodlab/UNI/) - General-purpose foundation model for computational pathology.
+- [UNI2-h](https://huggingface.co/MahmoodLab/UNI2-h/) - General-purpose foundation model for computational pathology.
 - [VIM4Path](https://github.com/AtlasAnalyticsLab/Vim4Path/) - Self-supervised vision mamba for WSIs.
 - [Virchow](https://huggingface.co/paige-ai/Virchow/) - Self-supervised vision transformer pretrained using 1.5M WSIs.
 
