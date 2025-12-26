@@ -64,6 +64,7 @@ This curated list of useful resources is supported by:
 - [DLUP](https://github.com/nki-ai/dlup/) - Deep learning utilities for pathology.
 - [ENACT](https://github.com/Sanofi-Public/enact-pipeline/) - End-to-end analysis and cell type annotation for Visium HD slides.
 - [eva](https://github.com/kaiko-ai/eva/) - Evaluation framework for oncology foundation models.
+- [FlashDeconv](https://github.com/cafferychen777/flashdeconv/) - High-performance spatial transcriptomics deconvolution for cell type mapping using structure-preserving randomized sketching.
 - [histocartography](https://github.com/BiomedSciAI/histocartography/) - Library designed to facilitate the development of graph-based computational pathology pipelines.
 - [MHIM-MIL](https://github.com/DearCaat/MHIM-MIL/) - Multiple instance learning framework with masked hard instance mining for WSI classification.
 - [nuclei.io](https://github.com/huangzhii/nuclei.io/) - Human-in-the-loop active learning framework for pathology image analysis.
