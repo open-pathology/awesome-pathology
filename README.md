@@ -62,6 +62,7 @@
 - [nuclei.io](https://github.com/huangzhii/nuclei.io/) - Human-in-the-loop active learning framework for pathology image analysis.
 - [PathML](https://github.com/Dana-Farber-AIOS/pathml/) - Tools for computational pathology.
 - [Slideflow](https://slideflow.dev/) - Python package that provides a unified API for building and testing deep learning models for histopathology.
+- [Trident](https://github.com/mahmoodlab/TRIDENT/) - Toolkit for large-scale WSI processing.
 
 ### Model
 
