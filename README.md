@@ -75,7 +75,6 @@
 - [CLAM](https://github.com/mahmoodlab/CLAM/) - Data-efficient and weakly supervised computational pathology on WSI.
 - [DeepLIIF](https://github.com/nadeemlab/DeepLIIF/) - Deep-learning inferred multiplex immunofluorescence for immunohistochemical image quantification.
 - [DeepSpot](https://github.com/ratschlab/DeepSpot/) - Deep learning model for predicting spatial transcriptomics from H&E histopathology images at spot and single-cell resolution.
-- [DeepSpot2Cell](https://github.com/ratschlab/DeepSpot2Cell/) - Predicts virtual single-cell spatial transcriptomics from H&E images using spot-level supervision.
 - [DiffInfinite](https://github.com/marcoaversa/diffinfinite/) - Large mask-image synthesis via parallel random patch diffusion in histopathology.
 - [DMMN](https://github.com/MSKCC-Computational-Pathology/DMMN/) - Deep Multi-Magnification Network for multi-class tissue segmentation of WSI.
 - [DT-MIL](https://github.com/yfzon/DT-MIL/) - Deformable transformer for multi-instance learning on histopathological image.
