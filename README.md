@@ -53,6 +53,7 @@
 
 ### Machine Learning
 
+- [AESTETIK](https://github.com/ratschlab/aestetik/) - Representation learning for spatial transcriptomics using autoencoders with topology and histology image knowledge.
 - [DLUP](https://github.com/nki-ai/dlup/) - Deep learning utilities for pathology.
 - [ENACT](https://github.com/Sanofi-Public/enact-pipeline/) - End-to-end analysis and cell type annotation for Visium HD slides.
 - [eva](https://github.com/kaiko-ai/eva/) - Evaluation framework for oncology foundation models.
@@ -73,6 +74,7 @@
 - [Cerberus](https://github.com/TissueImageAnalytics/cerberus/) - Multi-task learning enables simultaneous histology image segmentation and classification.
 - [CLAM](https://github.com/mahmoodlab/CLAM/) - Data-efficient and weakly supervised computational pathology on WSI.
 - [DeepLIIF](https://github.com/nadeemlab/DeepLIIF/) - Deep-learning inferred multiplex immunofluorescence for immunohistochemical image quantification.
+- [DeepSpot](https://github.com/ratschlab/DeepSpot/) - Deep learning model for predicting spatial transcriptomics from H&E histopathology images at spot and single-cell resolution.
 - [DiffInfinite](https://github.com/marcoaversa/diffinfinite/) - Large mask-image synthesis via parallel random patch diffusion in histopathology.
 - [DMMN](https://github.com/MSKCC-Computational-Pathology/DMMN/) - Deep Multi-Magnification Network for multi-class tissue segmentation of WSI.
 - [DT-MIL](https://github.com/yfzon/DT-MIL/) - Deformable transformer for multi-instance learning on histopathological image.
@@ -104,6 +106,7 @@
 
 - [BiomedCLIP](https://huggingface.co/microsoft/BiomedCLIP-PubMedBERT_256-vit_base_patch16_224/) - Multimodal biomedical foundation model pretrained from fifteen million scientific image-text pairs.
 - [CONCH](https://github.com/mahmoodlab/CONCH/) - Vision-language foundation model for computational pathology.
+- [DeepSpot-M](https://github.com/ratschlab/DeepSpotM/) - Multimodal foundation model for transcriptome-wide virtual spatial transcriptomics from histology.
 - [Hibou](https://github.com/HistAI/hibou/) - A family of foundational vision transformers for pathology.
 - [HIPT](https://github.com/mahmoodlab/HIPT/) - Scaling vision transformers to gigapixel images via hierarchical self-supervised learning.
 - [H-optimus](https://github.com/bioptimus/releases/tree/main/models/h-optimus/v0/) - Foundation model for histology.
