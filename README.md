@@ -191,7 +191,7 @@
 - [CryoNuSeg](https://github.com/masih4/CryoNuSeg/) - Nuclei segmentation of cryosectioned H&E-stained histological images.
 - [H2T](https://github.com/vqdang/H2T/) - Handcrafted Histological Transformer for unsupervised representation of WSIs.
 - [HEST](https://github.com/mahmoodlab/hest/) - Bringing spatial transcriptomics and histopathology together.
-- [HEST Xenium virtual spatial transcriptomics](https://huggingface.co/datasets/ratschlab/HEST_Xenium_virtual_spatial_transcriptomics/) - DeepSpot-M predicted transcriptome-wide ST for 59 HEST-1k Xenium H&E slides.
+- [HEST Xenium virtual spatial transcriptomics](https://huggingface.co/datasets/ratschlab/HEST_Xenium_virtual_spatial_transcriptomics/) - DeepSpot-M predicted transcriptome-wide ST for 59 HEST-1k Xenium H&E slides. Manuscript: [DeepSpot-M](https://www.medrxiv.org/content/10.64898/2026.06.19.26356060v1).
 - [LC25000](https://github.com/tampapath/lung_colon_image_set/) - Lung and colon cancer histopathological image dataset.
 - [LyNSeC](https://zenodo.org/records/8065174/) - Lymphoma nuclear segmentation and classification dataset.
 - [MHIST](https://bmirds.github.io/MHIST/) - Minimalist histopathology image analysis dataset.
@@ -203,7 +203,7 @@
 - [PanNuke](https://warwick.ac.uk/fac/cross_fac/tia/data/pannuke/) - Dataset for nuclei instance segmentation and classification.
 - [PCAM](https://github.com/basveeling/pcam/) - PatchCamelyon provides a new benchmark for machine learning models akin to CIFAR-10 and MNIST.
 - [TCGA](https://www.cancer.gov/ccg/research/genome-sequencing/tcga/) - The Cancer Genome Atlas is a landmark cancer genomics program that molecularly characterized over 20,000 primary cancer and matched normal samples spanning 33 cancer types.
-- [TCGA virtual spatial transcriptomics atlas](https://huggingface.co/datasets/ratschlab/TCGA_virtual_spatial_transcriptomics_atlas/) - DeepSpot-M predicted ST for TCGA H&E (FF + FFPE); ~28.7k slides across 32 cancer types.
+- [TCGA virtual spatial transcriptomics atlas](https://huggingface.co/datasets/ratschlab/TCGA_virtual_spatial_transcriptomics_atlas/) - DeepSpot-M predicted ST for TCGA H&E (FF + FFPE); 28,664 slides across 32 cancer types. Manuscript: [DeepSpot-M](https://www.medrxiv.org/content/10.64898/2026.06.19.26356060v1).
 - [UNITOPATHO](https://github.com/EIDOSLAB/UNITOPATHO/) - A labeled histopathological dataset for colorectal polyps classification and adenoma dysplasia grading.
 - [UNMaSk](https://github.com/pathdata/UNMaSk/) - Unmasking the immune microecology of ductal carcinoma in situ.
 
